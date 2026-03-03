@@ -12,7 +12,7 @@ I am a PhD student and a JSPS research fellow at the University of Electro-Commu
 ## Research Interests
 
 - Machine learning theory
-- Optimal Transport
+- Optimal Transport, gradient flow
 - Mathematical optimization and its applications
 
 ## Hobbies
