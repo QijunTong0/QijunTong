@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student and a JSPS research fellow at the [University of Electro-Communications](https://www.uec.ac.jp/eng/)
+I am a PhD student and a JSPS research fellow at the University of Electro-Communications.
 
 ## Research Interests
 
@@ -17,4 +17,4 @@ I am a PhD student and a JSPS research fellow at the [University of Electro-Comm
 
 ## Hobbies
 
-I enjoy digital illustration(Not by Image Generation!)[Pixiv](https://www.deviantart.com/qdsn/gallery).
+I enjoy digital illustration(Not by Image Generation!) [Pixiv](https://www.pixiv.net/users/5585504).
