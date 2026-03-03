@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Qijun Tong"
   pronouns         : # example: "she/her"
-  bio              : "PhD student at University of Electro-communications. Research interests in machine leanring theory."
+  bio              : # bio
   location         : "Tokyo, Japan"
-  employer         : "University of Electro-communications"
+  employer         : "UEC"
   uri              : # URL
   email            : "qijun.tong@uec.ac.jp"
 
