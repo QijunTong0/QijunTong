@@ -17,4 +17,4 @@ I am a PhD student and a JSPS research fellow at the University of Electro-Commu
 
 ## Hobbies
 
-I enjoy digital illustration(Not by Image Generation!) [Pixiv](https://www.pixiv.net/users/5585504).
+I enjoy drawing illustrations (No AI). You can find my work on [Pixiv](https://www.pixiv.net/users/5585504).
