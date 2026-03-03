@@ -17,19 +17,19 @@ Education
 
 Fellowships & Grants
 ======
-* JSPS Research Fellowship for Young Scientists (DC1) (Apl 2026 - Mar 2029)
-* JST SPRING Fellowship (Oct 2025 - Mar 2026)
+* JSPS Research Fellowship for Young Scientists (DC1) (Apr 2026 – Mar 2029)
+* JST SPRING Fellowship (Oct 2025 – Mar 2026)
 
 Industrial Experience
 ======
-* Jun 2023 – 2025 Sep: Accenture Japan Ltd
+* Jun 2023 – Sep 2025: Accenture Japan Ltd
   * Mathematical Optimization Engineer
 
 * Apr 2020 – May 2023: ALBERT Inc
   * Data Scientist / ML Engineer
 
 * Apr 2019 – Mar 2020: RIKEN Centre for Advanced Intelligence Project (AIP)
-  * Research Assistant** (Part-time)
+  * Research Assistant (Part-time)
 
 Languages
 ======
@@ -39,8 +39,8 @@ Languages
 
 Programming
 ======
-  * Python (Expert, 5 years): NumPy/CuPy, PyTorch, Cython, Mixed Integer Programming
-  * C++ (Intermediate, 3 years): OpenMP, SIMD/AVX
-  * Rust (Beginner, 1 year): WebAssembly
-* **Cloud / Frameworks**: Amazon AWS, Microsoft Azure, Argo Workflow, Photoshop
+* Python (Expert, 5 years): NumPy/CuPy, PyTorch, Cython, Mixed Integer Programming
+* C++ (Intermediate, 3 years): OpenMP, SIMD/AVX
+* Rust (Beginner, 1 year): WebAssembly
+* Cloud / Frameworks: Amazon AWS, Microsoft Azure, Argo Workflow, Photoshop
 
