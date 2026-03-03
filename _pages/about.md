@@ -17,4 +17,4 @@ I am a PhD student and a JSPS research fellow at the [University of Electro-Comm
 
 ## Hobbies
 
-I enjoy digital illustration(Not by Image Generation!)[DeviantArt](https://www.deviantart.com/qdsn/gallery).
+I enjoy digital illustration(Not by Image Generation!)[Pixiv](https://www.deviantart.com/qdsn/gallery).
