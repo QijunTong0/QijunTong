@@ -11,54 +11,52 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D., University of Electro-Communications, Tokyo, Japan (Oct 2025 – present)
+* M.Eng., Keio University, Tokyo, Japan (Apr 2018 – May 2020)
+* B.Eng., Keio University, Tokyo, Japan (Apr 2014 – May 2018)
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jun 2023 – present: **Data Scientist / Optimization Engineer**
+  * Accenture Japan Ltd, Tokyo, Japan
+  * Supervised the development of advanced scheduling algorithms for construction and retail clients, focusing on mathematical optimization systems.
+  * Developed algorithms utilizing JIT and Cython for performance improvement; engaged in ETL data modeling, deployment with AWS EKS, and CI/CD environments.
+  * Collaborated with various teams to define testing processes and develop maintenance and operational procedures.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Apr 2020 – May 2023: **Data Scientist / ML Engineer**
+  * ALBERT Inc., Tokyo, Japan
+  * Led the development and implementation of a social media analysis tool for a securities firm, designing the analysis architecture and managing data crawling for reputation analysis.
+  * Programmed and introduced a customized Business Intelligence (BI) system.
+  * Conducted R&D on natural language models to summarize customer complaints for a telecom company, fine-tuning models using AWS resources.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Apr 2019 – Mar 2020: **Research Assistant** (Part-time)
+  * RIKEN Centre for Advanced Intelligence Project (AIP), Tokyo, Japan
+  * Assisted the Mathematical Science team with research projects, conference preparation, and seminars.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Mathematical foundations**: Optimization theory, functional analysis, probability theory
+* **Technical skills**: Data processing, machine learning, mathematical optimization
+* **Programming**
+  * Python (Expert, 5 years): NumPy/CuPy, PyTorch, Cython, Mixed Integer Programming
+  * C++ (Intermediate, 3 years): OpenMP, SIMD/AVX
+  * Rust (Beginner, 1 year): WebAssembly
+* **Cloud / Frameworks**: Amazon AWS, Microsoft Azure, Argo Workflow, Microsoft Office, Photoshop
+
+Languages
+======
+* Japanese (Native)
+* English (Intermediate — IELTS 7.0)
+* Chinese (Conversational)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
