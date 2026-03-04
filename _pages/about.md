@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student and a JSPS research fellow at the University of Electro-Communications.
+I am a Ph.D. student and a JSPS research fellow at the University of Electro-Communications.
 
 ## Research Interests
 
