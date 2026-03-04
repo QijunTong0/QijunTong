@@ -5,8 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-- {{ post.citation }}{% if post.paperurl %} \[[link]({{ post.paperurl }})\]{% endif %}
-{% endfor %}
+- Tong, Q., &amp; Kobayashi, K. (2021). &quot;Entropy-regularized optimal transport on multivariate normal and $q$-normal distributions.&quot; <i>Entropy</i>, 23(3), 302. \[[link](https://doi.org/10.3390/e23030302)\]
