@@ -59,6 +59,19 @@
   関連科目: 数理統計学，数理最適化，測度論，確率論，微分幾何学，画像処理
 ]
 
+
+= 出版物
+
++ Qijun Tong and Kei Kobayashi. Entropy-regularized optimal transport on multivariate normal and q-normal distributions. _Entropy_, 23(3):302, 2021.
+
+= 発表
+
++ 「ガウス過程間のKnothe-Rosenblatt距離について」，第2回：計算技術による学際的統計解析ワークショップ，統計数理研究所（東京），2026年2月
+
++ 「Bernstein過程とその応用」，統計サマーセミナー2025（香川），2025年8月
+
++ 「2次元アニメーション制作における中割り自動化のためのベクタ形式画像の対応づけ」, 統計関連学会連合大会(東京)，2018年9月
+
 = フェローシップ・助成金
 
 #resume-entry(
@@ -72,18 +85,6 @@
   date: "2025年10月 - 2026年3月",
   description: "",
 )
-
-= 出版物
-
-+ Qijun Tong and Kei Kobayashi. Entropy-regularized optimal transport on multivariate normal and q-normal distributions. _Entropy_, 23(3):302, 2021.
-
-= 発表
-
-+ 「ガウス過程間のKnothe-Rosenblatt距離について」，第2回：計算技術による学際的統計解析ワークショップ，統計数理研究所（東京），2026年2月
-
-+ 「Bernstein過程とその応用」，統計サマーセミナー2025（香川），2025年8月
-
-+ 「2次元アニメーション制作における中割り自動化のためのベクタ形式画像の対応づけ」, 統計関連学会連合大会(東京)，2018年9月
 
 = 職務経歴
 

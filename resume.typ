@@ -67,6 +67,17 @@
   Relevant courseworks: Mathematical statistics, Mathematical optimization, Measure theory, Probability theory, Differential geometry, Image Processing
 ]
 
+
+= Publications
+
+Qijun Tong and Kei Kobayashi. Entropy-regularized optimal transport on multivariate normal and q-normal distributions. _Entropy_, 23(3):302, 2021.
+
+= Talks
+
+“On the Knothe-Rosenblatt Distance between Gaussian Processes”, 2nd Workshop on Interdisciplinary Statistical Analysis through Computational Techniques, The Institute of Statistical Mathematics, Tokyo, Japan, Feb 2026
+
+“Bernstein Processes and Their Applications”, Statistics Summer Seminar 2025, Kagawa, Japan, Aug 2025
+
 = Fellowships & Grants
 
 #resume-entry(
@@ -82,16 +93,6 @@
   date: "Oct 2025 - Mar 2026",
   description: "",
 )
-
-= Publications
-
-Qijun Tong and Kei Kobayashi. Entropy-regularized optimal transport on multivariate normal and q-normal distributions. _Entropy_, 23(3):302, 2021.
-
-= Talks
-
-“On the Knothe-Rosenblatt Distance between Gaussian Processes”, 2nd Workshop on Interdisciplinary Statistical Analysis through Computational Techniques, The Institute of Statistical Mathematics, Tokyo, Japan, Feb 2026
-
-“Bernstein Processes and Their Applications”, Statistics Summer Seminar 2025, Kagawa, Japan, Aug 2025
 
 = Professional experience
 
