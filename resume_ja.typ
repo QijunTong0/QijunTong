@@ -34,78 +34,70 @@
 
 #resume-item[
   研究テーマ:
-  - 機械学習理論
-  - 最適輸送理論と勾配流
-  - 数理最適化とその応用
+  機械学習理論,最適輸送理論と勾配流,数理最適化とその応用
 ]
 
 #resume-entry(
   title: "慶應義塾大学",
   location: "東京, 日本",
   date: "2018年4月 - 2020年5月",
-  description: "工学修士",
+  description: "修士（工学）",
 )
 
 #resume-item[
-  指導教員: 小林景 教授
-
-  関連科目: ベイズ統計学，統計的学習理論，情報幾何学
-
-  ティーチングアシスタント経験: 数理統計学
+  関連科目: 数理統計学,ベイズ統計学，統計的学習理論，情報幾何学
 ]
 
 #resume-entry(
   title: "慶應義塾大学",
   location: "東京, 日本",
   date: "2014年4月 - 2018年5月",
-  description: "工学士",
+  description: "学士（工学）",
 )
 
 #resume-item[
-  指導教員: 小林景 教授
-
   関連科目: 数理統計学，数理最適化，測度論，確率論，微分幾何学，画像処理
 ]
 
-= 受賞歴・助成金
+= フェローシップ・助成金
 
 #resume-entry(
   title: "日本学術振興会 特別研究員（DC1）",
-  location: "",
   date: "2026年4月 - 2029年3月",
-  description: "",
+  description: "採択課題:「オーリッチ空間論を用いた深層学習の正則化の効果解析」",
 )
 
 #resume-entry(
   title: "JST SPRINGフェローシップ",
-  location: "",
   date: "2025年10月 - 2026年3月",
   description: "",
 )
 
-= 業績
+= 出版物
 
-Qijun Tong and Kei Kobayashi. Entropy-regularized optimal transport on multivariate normal and q-normal distributions. _Entropy_, 23(3):302, 2021.
++ Qijun Tong and Kei Kobayashi. Entropy-regularized optimal transport on multivariate normal and q-normal distributions. _Entropy_, 23(3):302, 2021.
 
-= 講演
+= 発表
 
-“ガウス過程間のKnothe-Rosenblatt距離について”, 第2回：計算技術による学際的統計解析ワークショップ, 統計数理研究所, 東京, 日本, 2026年2月
++ 「ガウス過程間のKnothe-Rosenblatt距離について」，第2回：計算技術による学際的統計解析ワークショップ，統計数理研究所（東京），2026年2月
 
-“Bernstein過程とその応用”, 統計サマーセミナー2025, 香川, 日本, 2025年8月
++ 「Bernstein過程とその応用」，統計サマーセミナー2025（香川），2025年8月
+
++ 「2次元アニメーション制作における中割り自動化のためのベクタ形式画像の対応づけ」, 統計関連学会連合大会(東京)，2018年9月
 
 = 職務経歴
 
 #resume-entry(
   title: "データサイエンティスト / 最適化エンジニア",
   location: "東京, 日本",
-  date: "2023年6月 - 現在",
+  date: "2023年6月 - 2026年10月",
   description: "アクセンチュア株式会社",
 )
 
 #resume-item[
-  - 建設業・小売業のクライアント向けに高度なスケジューリングアルゴリズムの開発を統括し，効率的な数理最適化システムの構築に注力した。
-  - アルゴリズムを開発し，JITおよびCythonを用いて性能改善を行うとともに，ETLデータモデリング，AWS EKSによるデプロイ，CI/CD環境の構築に従事した。
-  - 複数のチームと連携してテストプロセスを定義し，保守・運用手順を策定することで，安定的かつ効率的なDXソリューションを実現した。
+  - 建設業・小売業向け高度スケジューリングアルゴリズム開発の統括，効率的な数理最適化システムの構築
+  - アルゴリズム開発，JIT・Cythonによる性能改善，ETLデータモデリング，AWS EKSデプロイ，CI/CD環境構築
+  - 複数チーム連携によるテストプロセス定義，保守・運用手順策定，安定的かつ効率的なDXソリューションの実現
 ]
 
 #resume-entry(
@@ -116,9 +108,9 @@ Qijun Tong and Kei Kobayashi. Entropy-regularized optimal transport on multivari
 )
 
 #resume-item[
-  - 証券会社向けのソーシャルメディア分析ツールの開発・導入を主導し，分析アーキテクチャの設計とレピュテーション分析のためのデータクローリング管理に注力した。
-  - カスタマイズしたビジネスインテリジェンス（BI）システムを開発・導入した。
-  - 通信会社向けに顧客クレームを要約する自然言語モデルの研究開発を行い，最新の研究成果を取り入れたモデル改良とAWSリソースを用いたファインチューニングによりPoC開発を進めた。
+  - 証券会社向けソーシャルメディア分析ツールの開発・導入主導，分析アーキテクチャ設計，レピュテーション分析用データクローリング管理
+  - カスタムBIシステムの開発・導入
+  - 通信会社向け顧客クレーム要約自然言語モデルの研究開発，最新研究成果を取り入れたモデル改良，AWSリソースによるファインチューニング，PoC開発の推進
 ]
 
 #resume-entry(
@@ -129,7 +121,7 @@ Qijun Tong and Kei Kobayashi. Entropy-regularized optimal transport on multivari
 )
 
 #resume-item[
-  - 理研の数理科学チームの研究プロジェクトに参加し，研究活動の補助，学会発表の準備，セミナーへの参加を行った。
+  - 理研数理科学チームの研究プロジェクトへの参加，研究活動補助，学会発表準備，セミナー参加
 ]
 
 /*
@@ -181,9 +173,9 @@ Qijun Tong and Kei Kobayashi. Entropy-regularized optimal transport on multivari
 
 = スキル
 
-*数学的基礎*: 最適化理論，関数解析，確率論に関する確かな基礎を有する。
+*数学*: 最適化理論，関数解析，確率論，統計学，機械学習理論
 
-*技術スキル*: データ処理，機械学習，数理最適化の経験を有する。
+*技術スキル*: データ処理，機械学習フレームワーク，数理最適化ソフトウェアの経験
 
 #resume-skill-item("プログラミング言語", (strong("Python"), "C++", "Rust"))
 #resume-skill-item(
