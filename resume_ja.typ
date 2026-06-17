@@ -19,7 +19,7 @@
   colored-headers: true,
   show-footer: false,
   show-address-icon: false,
-  font: ("Source Sans 3", "Source Sans Pro", "Hiragino Sans"),
+  font: ("Source Sans 3", "Source Sans Pro", "Yu Mincho"),
   header-font: "Helvetica Neue",
 )
 
@@ -29,7 +29,7 @@
   title: "電気通信大学",
   location: "東京, 日本",
   date: "2025年10月 - 現在",
-  description: "博士後期課程",
+  description: "博士課程在籍中",
 )
 
 #resume-item[

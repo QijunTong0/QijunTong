@@ -29,7 +29,7 @@
   title: "University of Electro-Communications",
   location: "Tokyo, Japan",
   date: "Oct 2025 - present",
-  description: "Ph.D.",
+  description: "Ph.D. Candidate",
 )
 
 #resume-item[
