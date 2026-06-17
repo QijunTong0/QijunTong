@@ -96,7 +96,7 @@
 )
 
 #resume-item[
-  - 建設業・小売業向け高度スケジューリングアルゴリズム開発の統括，効率的な数理最適化システムの構築
+  - 建設業・小売業向けスケジューリングアルゴリズム開発の統括，効率的な数理最適化システムの構築
   - アルゴリズム開発，JIT・Cythonによる性能改善，ETLデータモデリング，AWS EKSデプロイ，CI/CD環境構築
   - 複数チーム連携によるテストプロセス定義，保守・運用手順策定，安定的かつ効率的なDXソリューションの実現
 ]
@@ -170,7 +170,9 @@
 
 = 言語
 
-日本語（母語），英語（中級，TOEFL 92, IELTS 7.0），中国語（日常会話レベル）
+- 日本語（ネイティブ）
+- 英語（中級，TOEFL 92, IELTS 7.0）
+- 中国語（日常会話レベル）
 
 = スキル
 
@@ -178,25 +180,24 @@
 
 *技術スキル*: データ処理，機械学習フレームワーク，数理最適化ソフトウェアの経験
 
-#resume-skill-item("プログラミング言語", (strong("Python"), "C++", "Rust"))
+#resume-skill-item("プログラミング言語", ("Python", "C++", "Rust"))
 #resume-skill-item(
   "ライブラリ・ツール",
   (
+    "Python-MIP",
     "PySpark",
     "PyTorch",
+    "CuPy",
     "Cython",
     "Scikit-learn",
     "OpenMP",
     "SIMD (AVX)",
-    "CUDA",
-    "CuPy",
-    "MySQL",
     "PostgreSQL",
   ),
 )
 #resume-skill-item(
   "ソフトウェア・フレームワーク",
-  ("Microsoft Office", "Photoshop", "Git", "Redmine", "Argo Workflow"),
+  ("Microsoft Office", "Photoshop", "Git", "Argo Workflow"),
 )
 #resume-skill-item("クラウドプラットフォーム", ("Amazon AWS", "Microsoft Azure"))
 
