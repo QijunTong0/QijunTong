@@ -19,7 +19,7 @@
   colored-headers: true,
   show-footer: false,
   show-address-icon: false,
-  font: ("Source Sans 3", "Source Sans Pro", "Yu Mincho"),
+  font: ("Source Sans 3", "Source Sans Pro", "Hiragino Mincho"),
   header-font: "Helvetica Neue",
 )
 
@@ -203,6 +203,6 @@
 
 = その他
 
-*競技プログラミング*: AtCoder，Codeforces（上位15%程度）
+- *競技プログラミング*: AtCoder，Codeforces（上位15%程度）
 
-*デジタルイラストレーション制作*: #link("https://www.deviantart.com/qdsn/gallery")[https://www.deviantart.com/qdsn/gallery]
+- *デジタルイラストレーション制作*: #link("https://www.deviantart.com/qdsn/gallery")[https://www.deviantart.com/qdsn/gallery]
