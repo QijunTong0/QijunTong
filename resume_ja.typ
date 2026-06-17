@@ -1,0 +1,214 @@
+#import "@preview/modern-cv:0.10.0": *
+
+// modern-cv renders the header firstname with weight: "thin" and an accent
+// color; force it to match the bold, default-colored lastname.
+#show text.where(weight: "thin"): it => text(weight: "bold", fill: color-darkgray, it.text)
+
+#show: resume.with(
+  author: (
+    firstname: "Qijun",
+    lastname: "Tong",
+    email: "qijun.tong@uec.ac.jp",
+    github: "QijunTong0",
+    linkedin: "qijun-tong",
+    positions: (),
+  ),
+  profile-picture: none,
+  date: datetime.today().display(),
+  paper-size: "a4",
+  colored-headers: true,
+  show-footer: false,
+  show-address-icon: false,
+  font: ("Source Sans 3", "Source Sans Pro", "Hiragino Sans"),
+  header-font: "Helvetica Neue",
+)
+
+= 学歴
+
+#resume-entry(
+  title: "電気通信大学",
+  location: "東京, 日本",
+  date: "2025年10月 - 現在",
+  description: "博士後期課程",
+)
+
+#resume-item[
+  研究テーマ:
+  - 機械学習理論
+  - 最適輸送理論と勾配流
+  - 数理最適化とその応用
+]
+
+#resume-entry(
+  title: "慶應義塾大学",
+  location: "東京, 日本",
+  date: "2018年4月 - 2020年5月",
+  description: "工学修士",
+)
+
+#resume-item[
+  指導教員: 小林景 教授
+
+  関連科目: ベイズ統計学，統計的学習理論，情報幾何学
+
+  ティーチングアシスタント経験: 数理統計学
+]
+
+#resume-entry(
+  title: "慶應義塾大学",
+  location: "東京, 日本",
+  date: "2014年4月 - 2018年5月",
+  description: "工学士",
+)
+
+#resume-item[
+  指導教員: 小林景 教授
+
+  関連科目: 数理統計学，数理最適化，測度論，確率論，微分幾何学，画像処理
+]
+
+= 受賞歴・助成金
+
+#resume-entry(
+  title: "日本学術振興会 特別研究員（DC1）",
+  location: "",
+  date: "2026年4月 - 2029年3月",
+  description: "",
+)
+
+#resume-entry(
+  title: "JST SPRINGフェローシップ",
+  location: "",
+  date: "2025年10月 - 2026年3月",
+  description: "",
+)
+
+= 業績
+
+Qijun Tong and Kei Kobayashi. Entropy-regularized optimal transport on multivariate normal and q-normal distributions. _Entropy_, 23(3):302, 2021.
+
+= 講演
+
+“ガウス過程間のKnothe-Rosenblatt距離について”, 第2回：計算技術による学際的統計解析ワークショップ, 統計数理研究所, 東京, 日本, 2026年2月
+
+“Bernstein過程とその応用”, 統計サマーセミナー2025, 香川, 日本, 2025年8月
+
+= 職務経歴
+
+#resume-entry(
+  title: "データサイエンティスト / 最適化エンジニア",
+  location: "東京, 日本",
+  date: "2023年6月 - 現在",
+  description: "アクセンチュア株式会社",
+)
+
+#resume-item[
+  - 建設業・小売業のクライアント向けに高度なスケジューリングアルゴリズムの開発を統括し，効率的な数理最適化システムの構築に注力した。
+  - アルゴリズムを開発し，JITおよびCythonを用いて性能改善を行うとともに，ETLデータモデリング，AWS EKSによるデプロイ，CI/CD環境の構築に従事した。
+  - 複数のチームと連携してテストプロセスを定義し，保守・運用手順を策定することで，安定的かつ効率的なDXソリューションを実現した。
+]
+
+#resume-entry(
+  title: "データサイエンティスト / MLエンジニア",
+  location: "東京, 日本",
+  date: "2020年4月 - 2023年5月",
+  description: "株式会社ALBERT",
+)
+
+#resume-item[
+  - 証券会社向けのソーシャルメディア分析ツールの開発・導入を主導し，分析アーキテクチャの設計とレピュテーション分析のためのデータクローリング管理に注力した。
+  - カスタマイズしたビジネスインテリジェンス（BI）システムを開発・導入した。
+  - 通信会社向けに顧客クレームを要約する自然言語モデルの研究開発を行い，最新の研究成果を取り入れたモデル改良とAWSリソースを用いたファインチューニングによりPoC開発を進めた。
+]
+
+#resume-entry(
+  title: "理化学研究所 革新知能統合研究センター",
+  location: "",
+  date: "2019年4月 - 2020年3月",
+  description: "リサーチアシスタント（非常勤）",
+)
+
+#resume-item[
+  - 理研の数理科学チームの研究プロジェクトに参加し，研究活動の補助，学会発表の準備，セミナーへの参加を行った。
+]
+
+/*
+= 主要プロジェクト
+
+#resume-entry(
+  title: "建設プロジェクトのスケジューリング最適化",
+  location: "",
+  date: "2024年2月 - 2024年6月",
+  description: "",
+)
+
+#resume-item[
+  - 建設業クライアントのDXプロジェクトにおいて，数理最適化によるスケジューリングアルゴリズムの研究開発を統括した。
+  - JITおよびCythonを用いて最適化を行い，計算効率を改善し厳しい性能要件を満たすアルゴリズムを開発した。
+  - 同時にETLデータモデリング，AWS EKSによるデプロイ環境構築，テストプロセスの定義，保守・運用手順の策定にも従事した。
+]
+
+#resume-entry(
+  title: "カスタマーサービス効率化のためのNLPモデル研究開発プロジェクト",
+  location: "",
+  date: "2020年10月 - 2023年4月",
+  description: "",
+)
+
+#resume-item[
+  - 大手通信会社のカスタマーセンターに寄せられたクレームデータを要約する自然言語モデルの研究開発を行った。
+  - 最新の研究論文を参照しながら既存のモデルアーキテクチャを改良した。
+  - AWSの計算リソースを活用し，数ギガバイト規模のテキストデータでモデルをファインチューニングし，PoC開発を推進した。
+]
+
+#resume-entry(
+  title: "リーダーシップ経験",
+  location: "",
+  date: "2022年6月 - 2022年12月",
+  description: "",
+)
+
+#resume-item[
+  - 証券会社向けソーシャルメディア分析ツールの開発・導入を目的としたアジャイル型プロジェクトにおいて，5名のチームを率いた。
+  - 分析アーキテクチャの設計，クライアントとの折衝によるニーズ・要件の把握，レピュテーション分析や潜在的ニーズ抽出のためのソーシャルメディアテキストデータのクローリング監督を担当した。
+  - 本システムをビジネスインテリジェンスツールとして導入し，クライアントの期待に応える有益なインサイトの提供を実現した。
+]
+*/
+
+= 言語
+
+日本語（母語），英語（中級，TOEFL 92, IELTS 7.0），中国語（日常会話レベル）
+
+= スキル
+
+*数学的基礎*: 最適化理論，関数解析，確率論に関する確かな基礎を有する。
+
+*技術スキル*: データ処理，機械学習，数理最適化の経験を有する。
+
+#resume-skill-item("プログラミング言語", (strong("Python"), "C++", "Rust"))
+#resume-skill-item(
+  "ライブラリ・ツール",
+  (
+    "PySpark",
+    "PyTorch",
+    "Cython",
+    "Scikit-learn",
+    "OpenMP",
+    "SIMD (AVX)",
+    "CUDA",
+    "CuPy",
+    "MySQL",
+    "PostgreSQL",
+  ),
+)
+#resume-skill-item(
+  "ソフトウェア・フレームワーク",
+  ("Microsoft Office", "Photoshop", "Git", "Redmine", "Argo Workflow"),
+)
+#resume-skill-item("クラウドプラットフォーム", ("Amazon AWS", "Microsoft Azure"))
+
+= その他
+
+*競技プログラミング*: AtCoder，Codeforces（上位15%程度）
+
+*デジタルイラスト*: #link("https://www.deviantart.com/qdsn/gallery")[ギャラリー]

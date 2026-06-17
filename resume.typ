@@ -1,5 +1,9 @@
 #import "@preview/modern-cv:0.10.0": *
 
+// modern-cv renders the header firstname with weight: "thin" and an accent
+// color; force it to match the bold, default-colored lastname.
+#show text.where(weight: "thin"): it => text(weight: "bold", fill: color-darkgray, it.text)
+
 #show: resume.with(
   author: (
     firstname: "Qijun",
@@ -16,6 +20,7 @@
   show-footer: false,
   show-address-icon: false,
   font: ("Source Sans 3", "Source Sans Pro", "Hiragino Sans"),
+  header-font: "Helvetica Neue",
 )
 
 = Education
@@ -173,7 +178,7 @@ Qijun Tong and Kei Kobayashi. Entropy-regularized optimal transport on multivari
 
 = Languages
 
-Japanese (Native), English (Intermediate, IELTS 7.0), Chinese (Conversational)
+Japanese (Native), English (Intermediate, TOEFL 92, IELTS 7.0), Chinese (Conversational)
 
 = Skills
 
@@ -185,7 +190,7 @@ Japanese (Native), English (Intermediate, IELTS 7.0), Chinese (Conversational)
 #resume-skill-item(
   "Libraries & Tools",
   (
-    strong("PySpark"),
+    "PySpark",
     "PyTorch",
     "Cython",
     "Scikit-learn",
@@ -203,8 +208,8 @@ Japanese (Native), English (Intermediate, IELTS 7.0), Chinese (Conversational)
 )
 #resume-skill-item("Cloud Platforms", ("Amazon AWS", "Microsoft Azure"))
 
-= Hobbies
+= Miscellaneous
 *Competitive programming*: Atcoder, Codeforces (approximate top 15%)
 
-*Digital illustration*: semi-professional #link("https://www.deviantart.com/qdsn/gallery")[Gallery]
+*Digital illustration*: #link("https://www.deviantart.com/qdsn/gallery")[Gallery]
 
