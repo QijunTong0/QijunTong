@@ -68,7 +68,7 @@
 )
 
 #resume-entry(
-  title: "JST SPRINGフェローシップ",
+  title: "JST SPRING次世代研究者挑戦的研究プログラム",
   date: "2025年10月 - 2026年3月",
   description: "",
 )
@@ -88,10 +88,10 @@
 = 職務経歴
 
 #resume-entry(
-  title: "データサイエンティスト / 最適化エンジニア",
+  title: "アクセンチュア株式会社",
   location: "東京, 日本",
   date: "2023年6月 - 2026年10月",
-  description: "アクセンチュア株式会社",
+  description: "データサイエンティスト / 最適化エンジニア",
 )
 
 #resume-item[
@@ -101,10 +101,10 @@
 ]
 
 #resume-entry(
-  title: "データサイエンティスト / MLエンジニア",
+  title: "株式会社ALBERT",
   location: "東京, 日本",
   date: "2020年4月 - 2023年5月",
-  description: "株式会社ALBERT",
+  description: "データサイエンティスト / MLエンジニア",
 )
 
 #resume-item[
@@ -203,4 +203,4 @@
 
 *競技プログラミング*: AtCoder，Codeforces（上位15%程度）
 
-*デジタルイラスト*: #link("https://www.deviantart.com/qdsn/gallery")[ギャラリー]
+*デジタルイラストレーション作成*: #link("https://www.deviantart.com/qdsn/gallery")[https://www.deviantart.com/qdsn/gallery]
