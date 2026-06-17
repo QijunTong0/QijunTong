@@ -205,4 +205,4 @@
 
 *競技プログラミング*: AtCoder，Codeforces（上位15%程度）
 
-*デジタルイラストレーション作成*: #link("https://www.deviantart.com/qdsn/gallery")[https://www.deviantart.com/qdsn/gallery]
+*デジタルイラストレーション制作*: #link("https://www.deviantart.com/qdsn/gallery")[https://www.deviantart.com/qdsn/gallery]
