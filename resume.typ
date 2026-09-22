@@ -72,6 +72,8 @@
 
 = Publications
 
+Qijun Tong, Masahiro Ikeda, and Ryota Kawasumi. High-Probability Guarantees for SGD under β-Heavy-Tailed Gradient Noise. Submitted to _ICLR 2027_, 2026.
+
 Qijun Tong and Kei Kobayashi. Entropy-regularized optimal transport on multivariate normal and q-normal distributions. _Entropy_, 23(3):302, 2021.
 
 = Talks
