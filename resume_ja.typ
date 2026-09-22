@@ -28,8 +28,8 @@
 #resume-entry(
   title: "電気通信大学",
   location: "東京, 日本",
-  date: "2025年10月 - 現在",
-  description: "博士課程在籍中",
+  date: "2025年10月 - 2028年9月（修了予定）",
+  description: "博士（情報学）",
 )
 
 #resume-item[

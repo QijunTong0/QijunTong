@@ -28,8 +28,8 @@
 #resume-entry(
   title: "University of Electro-Communications",
   location: "Tokyo, Japan",
-  date: "Oct 2025 - present",
-  description: "Ph.D. Candidate",
+  date: "Oct 2025 - Sep 2028 (expected)",
+  description: "Ph.D. in Informatics",
 )
 
 #resume-item[
