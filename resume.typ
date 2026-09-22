@@ -115,7 +115,7 @@ Qijun Tong and Kei Kobayashi. Entropy-regularized optimal transport on multivari
   title: "Data scientist/ML Engineer",
   location: "Tokyo, Japan",
   date: "Apr 2020 - May 2023",
-  description: "ALBERT",
+  description: "ALBERT Inc.",
 )
 
 #resume-item[
@@ -215,4 +215,3 @@ Japanese (Native), English (Intermediate, TOEFL 92, IELTS 7.0), Chinese (Convers
 *Competitive programming*: Atcoder, Codeforces (approximate top 15%)
 
 *Digital illustration*: #link("https://www.deviantart.com/qdsn/gallery")[Gallery]
-
