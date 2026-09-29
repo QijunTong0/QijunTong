@@ -28,8 +28,8 @@
 #resume-entry(
   title: "University of Electro-Communications",
   location: "Tokyo, Japan",
-  date: "Oct 2025 - present",
-  description: "Ph.D. Candidate",
+  date: "Oct 2025 - Sep 2028 (expected)",
+  description: "Ph.D. in Informatics",
 )
 
 #resume-item[
@@ -76,6 +76,10 @@ Qijun Tong, Masahiro Ikeda, and Ryota Kawasumi. High-Probability Guarantees for 
 
 Qijun Tong and Kei Kobayashi. Entropy-regularized optimal transport on multivariate normal and q-normal distributions. _Entropy_, 23(3):302, 2021.
 
+= Preprints
+
+Qijun Tong, Masahiro Ikeda, and Ryota Kawasumi. High-probability guarantees for SGD under $beta$-heavy-tailed gradient noise. #link("https://arxiv.org/abs/2609.32195")[arXiv:2609.32195], 2026.
+
 = Talks
 
 “On the Knothe-Rosenblatt Distance between Gaussian Processes”, 2nd Workshop on Interdisciplinary Statistical Analysis through Computational Techniques, The Institute of Statistical Mathematics, Tokyo, Japan, Feb 2026
@@ -103,7 +107,7 @@ Qijun Tong and Kei Kobayashi. Entropy-regularized optimal transport on multivari
 #resume-entry(
   title: "Data scientist/Optimization Engineer",
   location: "Tokyo, Japan",
-  date: "Jun 2023 - Oct 2025",
+  date: "Jun 2023 - Nov 2025",
   description: "Accenture Japan Ltd",
 )
 

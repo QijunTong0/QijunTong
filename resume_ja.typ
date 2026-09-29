@@ -28,8 +28,8 @@
 #resume-entry(
   title: "電気通信大学",
   location: "東京, 日本",
-  date: "2025年10月 - 現在",
-  description: "博士課程在籍中",
+  date: "2025年10月 - 2028年9月（修了予定）",
+  description: "博士（情報学）",
 )
 
 #resume-item[
@@ -68,6 +68,10 @@
 
 + Qijun Tong and Kei Kobayashi. Entropy-regularized optimal transport on multivariate normal and q-normal distributions. _Entropy_, 23(3):302, 2021.
 
+= プレプリント
+
++ Qijun Tong, Masahiro Ikeda, and Ryota Kawasumi. High-probability guarantees for SGD under $beta$-heavy-tailed gradient noise. #link("https://arxiv.org/abs/2609.32195")[arXiv:2609.32195], 2026.
+
 = 発表
 
 + 「ガウス過程間のKnothe-Rosenblatt距離について」，第2回：計算技術による学際的統計解析ワークショップ，統計数理研究所（東京），2026年2月
@@ -95,7 +99,7 @@
 #resume-entry(
   title: "アクセンチュア株式会社",
   location: "東京, 日本",
-  date: "2023年6月 - 2026年10月",
+  date: "2023年6月 - 2025年11月",
   description: "データサイエンティスト / 最適化エンジニア",
 )
 
