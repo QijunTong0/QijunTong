@@ -72,6 +72,10 @@
 
 Qijun Tong and Kei Kobayashi. Entropy-regularized optimal transport on multivariate normal and q-normal distributions. _Entropy_, 23(3):302, 2021.
 
+= Preprints
+
+Qijun Tong, Masahiro Ikeda, and Ryota Kawasumi. High-probability guarantees for SGD under $beta$-heavy-tailed gradient noise. #link("https://arxiv.org/abs/2609.32195")[arXiv:2609.32195], 2026.
+
 = Talks
 
 “On the Knothe-Rosenblatt Distance between Gaussian Processes”, 2nd Workshop on Interdisciplinary Statistical Analysis through Computational Techniques, The Institute of Statistical Mathematics, Tokyo, Japan, Feb 2026
