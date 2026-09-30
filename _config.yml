@@ -169,6 +169,7 @@ exclude:
   - assets/js/vendor
   - CHANGELOG
   - Capfile
+  - cv
   - config
   - Dockerfile
   - Gemfile
