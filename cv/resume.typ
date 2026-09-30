@@ -82,9 +82,13 @@ Qijun Tong, Masahiro Ikeda, and Ryota Kawasumi. High-probability guarantees for 
 
 = Talks
 
+“High-Probability Guarantees for SGD under β-Heavy-Tailed Gradient Noise” (poster), YAML 2026, Yamagata, Japan, Sep 2026
+
 “On the Knothe-Rosenblatt Distance between Gaussian Processes”, 2nd Workshop on Interdisciplinary Statistical Analysis through Computational Techniques, The Institute of Statistical Mathematics, Tokyo, Japan, Feb 2026
 
 “Bernstein Processes and Their Applications”, Statistics Summer Seminar 2025, Kagawa, Japan, Aug 2025
+
+“Matching Vector Images for Automated Inbetweening in 2D Animation Production”, Japanese Joint Statistical Meeting, Chuo University, Tokyo, Japan, Sep 2018
 
 = Fellowships & Grants
 
