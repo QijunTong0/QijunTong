@@ -35,7 +35,7 @@
   Supervisor: Prof. Satoshi Hara
 
   Research interests:
-  Machine learning theory, Optimal Transport and Gradient flow, Mathematical optimization and its applications
+  machine learning theory, optimal transport and gradient flows, dynamics of gradient algorithms, reciprocal processes and their applications
 ]
 
 #resume-entry(
