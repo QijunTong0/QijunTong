@@ -9,8 +9,7 @@
     firstname: "Qijun",
     lastname: "Tong",
     email: "qijun.tong@uec.ac.jp",
-    github: "QijunTong0",
-    linkedin: "qijun-tong",
+    homepage: "https://qijuntong0.github.io/QijunTong/",
     positions: (),
   ),
   profile-picture: none,
@@ -95,6 +94,17 @@
 )
 
 = 職務経歴
+
+#resume-entry(
+  title: "株式会社日本データサイエンス研究所（JDSC）",
+  location: "東京, 日本",
+  date: "2026年9月 - 現在",
+  description: "インターン",
+)
+
+#resume-item[
+  - Vision-Language-Action（VLA）モデルを用いたロボットの技術調査
+]
 
 #resume-entry(
   title: "アクセンチュア株式会社",

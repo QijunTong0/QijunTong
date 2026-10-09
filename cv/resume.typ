@@ -9,8 +9,7 @@
     firstname: "Qijun",
     lastname: "Tong",
     email: "qijun.tong@uec.ac.jp",
-    github: "QijunTong0",
-    linkedin: "qijun-tong",
+    homepage: "https://qijuntong0.github.io/QijunTong/",
     positions: (),
   ),
   profile-picture: none,
@@ -19,8 +18,8 @@
   colored-headers: true,
   show-footer: false,
   show-address-icon: false,
-  font: ("Source Sans 3", "Source Sans Pro", "Hiragino Sans"),
-  header-font: "Helvetica Neue",
+  font: ("New Computer Modern", "Hiragino Sans"),
+  header-font: "New Computer Modern",
 )
 
 = Education
@@ -36,9 +35,7 @@
   Supervisor: Prof. Satoshi Hara
 
   Research interests:
-  - Machine learning theory
-  - Optimal Transport and Gradient flow
-  - Mathematical optimization and its applications
+  Machine learning theory, Optimal Transport and Gradient flow, Mathematical optimization and its applications
 ]
 
 #resume-entry(
@@ -72,21 +69,21 @@
 
 = Publications
 
-Qijun Tong and Kei Kobayashi. Entropy-regularized optimal transport on multivariate normal and q-normal distributions. _Entropy_, 23(3):302, 2021.
++ Qijun Tong and Kei Kobayashi. Entropy-regularized optimal transport on multivariate normal and q-normal distributions. _Entropy_, 23(3):302, 2021.
 
 = Preprints
 
-Qijun Tong, Masahiro Ikeda, and Ryota Kawasumi. High-probability guarantees for SGD under $beta$-heavy-tailed gradient noise. #link("https://arxiv.org/abs/2609.32195")[arXiv:2609.32195], 2026.
++ Qijun Tong, Masahiro Ikeda, and Ryota Kawasumi. High-probability guarantees for SGD under $beta$-heavy-tailed gradient noise. #link("https://arxiv.org/abs/2609.32195")[arXiv:2609.32195], 2026.
 
 = Talks
 
-“High-Probability Guarantees for SGD under β-Heavy-Tailed Gradient Noise” (poster), YAML 2026, Yamagata, Japan, Sep 2026
++ “High-Probability Guarantees for SGD under β-Heavy-Tailed Gradient Noise”, YAML 2026, Yamagata, Japan, Sep 2026
 
-“On the Knothe-Rosenblatt Distance between Gaussian Processes”, 2nd Workshop on Interdisciplinary Statistical Analysis through Computational Techniques, The Institute of Statistical Mathematics, Tokyo, Japan, Feb 2026
++ “On the Knothe-Rosenblatt Distance between Gaussian Processes”, 2nd Workshop on Interdisciplinary Statistical Analysis through Computational Techniques, The Institute of Statistical Mathematics, Tokyo, Japan, Feb 2026
 
-“Bernstein Processes and Their Applications”, Statistics Summer Seminar 2025, Kagawa, Japan, Aug 2025
++ “Bernstein Processes and Their Applications”, Statistics Summer Seminar 2025, Kagawa, Japan, Aug 2025
 
-“Matching Vector Images for Automated Inbetweening in 2D Animation Production”, Japanese Joint Statistical Meeting, Chuo University, Tokyo, Japan, Sep 2018
++ “Matching Vector Images for Automated Inbetweening in 2D Animation Production”, Japanese Joint Statistical Meeting, Chuo University, Tokyo, Japan, Sep 2018
 
 = Fellowships & Grants
 
@@ -105,6 +102,17 @@ Qijun Tong, Masahiro Ikeda, and Ryota Kawasumi. High-probability guarantees for 
 )
 
 = Professional experience
+
+#resume-entry(
+  title: "Research Intern",
+  location: "Tokyo, Japan",
+  date: "Sep 2026 - Present",
+  description: "Japan Data Science Consortium Co. Ltd.",
+)
+
+#resume-item[
+  - Conducting technical research on robotics using Vision-Language-Action models.
+]
 
 #resume-entry(
   title: "Data scientist/Optimization Engineer",
@@ -134,7 +142,7 @@ Qijun Tong, Masahiro Ikeda, and Ryota Kawasumi. High-probability guarantees for 
 
 #resume-entry(
   title: "RIKEN Centre for Advanced Intelligence",
-  location: "",
+  location: "Tokyo, Japan",
   date: "Apr 2019 - Mar 2020",
   description: "Research Assistant (Part-time)",
 )
@@ -189,7 +197,7 @@ Qijun Tong, Masahiro Ikeda, and Ryota Kawasumi. High-probability guarantees for 
 
 = Languages
 
-Japanese (Native), English (Intermediate, TOEFL 92, IELTS 7.0), Chinese (Conversational)
+Japanese (Native), English (Intermediate, TOEFL 95, IELTS 7.0), Chinese (Conversational)
 
 = Skills
 
