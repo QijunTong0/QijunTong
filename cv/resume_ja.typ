@@ -67,7 +67,7 @@
 
 = プレプリント
 
-+ Qijun Tong, Masahiro Ikeda, and Ryota Kawasumi. High-probability guarantees for SGD under $beta$-heavy-tailed gradient noise. #link("https://arxiv.org/abs/2609.32195")[arXiv:2609.32195], 2026.
++ Qijun Tong, Masahiro Ikeda, and Ryota Kawasumi. High-probability guarantees for SGD under $beta$-heavy-tailed gradient noise. #link("https://arxiv.org/abs/2609.32195")[arXiv:2609.32195], 2026.（ICLR 2027 投稿中）
 
 = 発表
 
