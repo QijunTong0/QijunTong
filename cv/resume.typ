@@ -77,7 +77,7 @@
 
 = Talks
 
-+ “Error Analysis of Stochastic Gradient Descent under β-Heavy-Tailed Gradient Noise”, 29th Information-Based Induction Sciences Workshop (IBIS2026), Omiya, Saitama, Japan, 2026
++ “Error Analysis of Stochastic Gradient Descent under β-Heavy-Tailed Gradient Noise”, 29th Information-Based Induction Sciences Workshop (IBIS2026), Omiya, Saitama, Japan, Oct 2026
 
 + “High-Probability Guarantees for SGD under β-Heavy-Tailed Gradient Noise”, YAML 2026, Yamagata, Japan, Sep 2026
 
