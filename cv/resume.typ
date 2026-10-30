@@ -77,6 +77,8 @@
 
 = Talks
 
++ “Error Analysis of Stochastic Gradient Descent under β-Heavy-Tailed Gradient Noise”, 29th Information-Based Induction Sciences Workshop (IBIS2026), Japan, 2026
+
 + “High-Probability Guarantees for SGD under β-Heavy-Tailed Gradient Noise”, YAML 2026, Yamagata, Japan, Sep 2026
 
 + “On the Knothe-Rosenblatt Distance between Gaussian Processes”, 2nd Workshop on Interdisciplinary Statistical Analysis through Computational Techniques, The Institute of Statistical Mathematics, Tokyo, Japan, Feb 2026

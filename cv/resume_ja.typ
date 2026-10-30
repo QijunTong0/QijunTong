@@ -71,6 +71,8 @@
 
 = 発表
 
++ 「β-heavy-tailedな勾配ノイズ下での確率的勾配降下法の誤差解析」，第29回情報論的学習理論ワークショップ（IBIS2026），2026年
+
 + 「High-Probability Guarantees for SGD under β-Heavy-Tailed Gradient Noise」（ポスター），機械学習若手の会 (YAML) 2026（山形），2026年9月
 
 + 「ガウス過程間のKnothe-Rosenblatt距離について」，第2回：計算技術による学際的統計解析ワークショップ，統計数理研究所（東京），2026年2月
