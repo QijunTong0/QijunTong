@@ -71,7 +71,7 @@
 
 = 発表
 
-+ 「β-heavy-tailedな勾配ノイズ下での確率的勾配降下法の誤差解析」，第29回情報論的学習理論ワークショップ（IBIS2026），2026年
++ 「β-heavy-tailedな勾配ノイズ下での確率的勾配降下法の誤差解析」，第29回情報論的学習理論ワークショップ（IBIS2026）（埼玉），2026年
 
 + 「High-Probability Guarantees for SGD under β-Heavy-Tailed Gradient Noise」（ポスター），機械学習若手の会 (YAML) 2026（山形），2026年9月
 
